@@ -14,7 +14,11 @@ public class Project {
 		System.out.println("we");
 	}
 	
-	
+	private void qwe() {
+		// TODO Auto-generated method stub
+
+	}
+
 	private void add3() {
 		System.out.println("bye");
 	}
