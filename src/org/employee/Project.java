@@ -10,6 +10,11 @@ public class Project {
 		System.out.println("msg");
 	}
 	
+	private void qe() {
+		System.out.println("we");
+	}
+	
+	
 	private void add3() {
 		System.out.println("bye");
 	}
